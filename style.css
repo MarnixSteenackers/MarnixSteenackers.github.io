@@ -1,0 +1,107 @@
+/* Education */
+#education{
+    background-size: contain;
+    background-image: url(https://imgur.com/aSJTAtJ.png);
+}
+/* Curation */
+#curation {
+    background-size: contain;
+    background-image: url(https://imgur.com/48OUyzN.png);
+}
+/* Design */
+#design{
+    background-size: contain;
+    background-image: url(https://imgur.com/bzZl1Vd.png);
+}
+/* Research */
+#research{
+    background-size: contain;
+    background-image: url(https://imgur.com/ZAWHKUl.png);
+}
+/* Branding */
+#branding {
+    background-size: contain;
+    background-image: url(https://imgur.com/KT8sDNw.png);
+}
+/* Archival */
+#photography{
+    background-size: contain;
+    background-image: url(https://imgur.com/aSJTAtJ.png);
+}
+
+#curation>div>div>a>img:hover {
+    opacity: 0;
+}
+#photography>div>div>a>img:hover {
+    opacity: 0;
+}
+#branding>div>div>a>img:hover {
+    opacity: 0;
+}
+#research>div>div>a>img:hover {
+    opacity: 0;
+}
+#education>div>div>a>img:hover {
+    opacity: 0;
+}
+#design>div>div>a>img:hover {
+    opacity: 0;
+}
+
+
+/* EDUCATION PAGE */
+
+/* Education */
+#central {
+    background-size: contain;
+    background-image: url(https://imgur.com/1MHccTj.png);
+}
+
+#middlesex {
+    background-size: contain;
+    background-image: url(https://imgur.com/VBORwA7.png);
+}
+
+#fashion {
+    background-size: contain;
+    background-image: url(https://imgur.com/Kl8oVwp.png);
+}
+
+#morley {
+    background-size: contain;
+    background-image: url(https://imgur.com/Pu3fwxx.png);
+}
+
+#westminster {
+    background-size: contain;
+    background-image: url(https://imgur.com/ZW1AcWe.png);
+}
+
+#akademie {
+    background-size: contain;
+    background-image: url(https://imgur.com/JcFBhAE.png);
+}
+
+
+#middlesex>div>div>a>img:hover {
+    opacity: 0;
+}
+
+
+#westminster>div>div>a>img:hover {
+    opacity: 0;
+}
+
+#morley>div>div>a>img:hover {
+    opacity: 0;
+}
+
+#central>div>div>a>img:hover {
+    opacity: 0;
+}
+#fashion>div>div>a>img:hover {
+    opacity: 0;
+}
+#akademie>div>div>a>img:hover {
+    opacity: 0;
+}
