@@ -1,0 +1,46 @@
+/* Education */
+.education{
+    background-size: contain;
+    background-image: url(https://imgur.com/aSJTAtJ.png);
+}
+/* Curation */
+#curation {
+    background-size: contain;
+    background-image: url(https://imgur.com/48OUyzN.png);
+}
+/* Design */
+.design{
+    background-size: contain;
+    background-image: url(https://imgur.com/bzZl1Vd.png);
+}
+/* Research */
+.research{
+    background-size: contain;
+    background-image: url(https://imgur.com/ZAWHKUl.png);
+}
+/* Branding */
+.branding {
+    background-size: contain;
+    background-image: url(https://imgur.com/KT8sDNw.png);
+}
+/* Archival */
+.photography{
+    background-size: contain;
+    background-image: url(https://imgur.com/aSJTAtJ.png);
+}
+
+#curation>div>div>a>img:hover {
+    opacity: 0;
+}
+#photography>div>div>a>img:hover {
+    opacity: 0;
+}
+#branding>div>div>a>img:hover {
+    opacity: 0;
+}
+#research>div>div>a>img:hover {
+    opacity: 0;
+}
+#education>div>div>a>img:hover {
+    opacity: 0;
+}
